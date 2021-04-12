@@ -53,6 +53,9 @@
 		<junit.version>4.12</junit.version>
 		<assertj.version>3.11.1</assertj.version>
 		<openpojo.version>0.8.10</openpojo.version>
+		<sonar.projectKey>dhana-r_cucelastic-maven-plugin</sonar.projectKey>
+		<sonar.organization>dhana-r</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
     
 	<dependencies>
