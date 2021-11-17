@@ -13,15 +13,15 @@
     <inceptionYear>2018</inceptionYear>
 
     <organization>
-        <name></name>
+        <name/>
         <url>https://github.com/AshisRaj/</url>
     </organization>
 
     <developers>
         <developer>
             <name>Ashis Raj</name>
-            <organization></organization>
-            <organizationUrl></organizationUrl>
+            <organization/>
+            <organizationUrl/>
             <roles>
                 <role>Developer and Test Automation Engineer</role>
             </roles>
@@ -36,7 +36,7 @@
         <project.build.resourceEncoding>UTF-8</project.build.resourceEncoding>
         <maven.compile.encoding>UTF-8</maven.compile.encoding>
         
-        <maven.version>3.5.4</maven.version>
+        <maven.version>3.8.3</maven.version>
         <maven.plugin.plugin.version>3.4</maven.plugin.plugin.version>
         <maven.compiler.plugin.version>3.6.1</maven.compiler.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
